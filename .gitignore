@@ -1,3 +1,6 @@
 .mypy_cache
 
 *.txt
+venv
+__pycache__
+.pytest_cache
